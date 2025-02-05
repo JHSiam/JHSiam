@@ -6,38 +6,60 @@
 <h1 align="center">Hi, I'm Jahid Hasan Siam 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-## 🚀 About Me
-- Passionate full stack web developer with experience in building scalable and dynamic applications.  
-- Skilled in frontend and backend technologies, specializing in the MERN stack.  
-- Always eager to learn and explore new web technologies.  
-- Looking to pursue a master’s degree in web engineering.  
+<p align="center">
+  Passionate full stack web developer with experience in building scalable and dynamic applications. <br>
+  Skilled in frontend and backend technologies, specializing in the MERN stack. <br>
+  Always eager to learn and explore new web technologies. <br>
+  Looking to pursue a master’s degree in web engineering.  
+</p>
 
-## 🔥 What I'm Working On
-- 🚀 Exploring **Next.js** and advanced React patterns.  
-- 🛠️ Building a **scalable chat application** with real-time messaging.  
-- 🌱 Learning **advanced backend optimizations** with Node.js and Express.  
+<h2 align="center">🔥 What I'm Working On</h2>
+<p align="center">
+ 🚀 Exploring <strong>Next.js</strong> and advanced React patterns. <br>
+ 🛠️ Building a <strong>scalable chat application</strong> with real-time messaging. <br>
+ 🌱 Learning <strong>advanced backend optimizations</strong> with Node.js and Express.  
+</p>
 
-## 🛠️ Tech Stack
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🛠 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+<p align="center">
+  <strong>🌐 Frontend</strong> <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
-### ⚙️ Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<p align="center">
+  <strong>🛠 Backend</strong> <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)  
+<p align="center">
+  <strong>⚙️ Tools & DevOps</strong> <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/your-profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical">
+</p>
