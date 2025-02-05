@@ -52,6 +52,11 @@
   </a>
 </p>
 
+<p align="center">
+  📧 <strong>Email:</strong> jahidhasansiamofficial@gmail.com <br>
+  📞 <strong>Phone:</strong> +880 1643529569
+</p>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JHSiam&theme=radical" alt="GitHub Streak">
