@@ -16,7 +16,6 @@
 <h2 align="center">🔥 What I'm Working On</h2>
 <p align="center">
  🚀 Exploring <strong>Next.js</strong> and advanced React patterns. <br>
- 🛠️ Building a <strong>scalable chat application</strong> with real-time messaging. <br>
  🌱 Learning <strong>advanced backend optimizations</strong> with Node.js and Express.  
 </p>
 
@@ -45,7 +44,7 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/jahid-hasan-siam/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/your-profile">
