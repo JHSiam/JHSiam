@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  📧 <strong>Email:</strong> jahidhasansiamofficial@gmail.com <br>
+  📧 <strong>Email:</strong> iamjhsiam@gmail.com <br>
   📞 <strong>Phone:</strong> +880 1643529569
 </p>
 
