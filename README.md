@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-banner-image-url.com](https://i.ibb.co.com/7dxzTdRC/Jahid-hasan-siam.png)" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/7dxzTdRC/Jahid-hasan-siam.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
