@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/mVhcw918/Screenshot-2025-02-05-172449.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Jahid Hasan Siam 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 ## 🚀 About Me
